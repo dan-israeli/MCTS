@@ -1,5 +1,5 @@
 from Simulator import Simulator
-import hw3
+import assignment
 import sample_agent
 from copy import deepcopy
 import time
